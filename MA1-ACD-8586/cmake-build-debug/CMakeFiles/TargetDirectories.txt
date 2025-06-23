@@ -1,0 +1,3 @@
+/Users/senlli/Desktop/collage/4th/C++/MA1-ACD-8586/cmake-build-debug/CMakeFiles/MA1_ACD_8586.dir
+/Users/senlli/Desktop/collage/4th/C++/MA1-ACD-8586/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/senlli/Desktop/collage/4th/C++/MA1-ACD-8586/cmake-build-debug/CMakeFiles/rebuild_cache.dir
