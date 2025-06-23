@@ -22,7 +22,7 @@ This is a console-based Student Management System built in C++. The program allo
 
 The student data is stored in a file named `records.txt`, with the following structure:
 
-,,,,[,…]
+,,,,
 
 **Example:**
 
