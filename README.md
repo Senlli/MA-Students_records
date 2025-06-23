@@ -24,8 +24,8 @@ The student data is stored in a file named `records.txt`, with the following str
 
 **Example:**
 
-1981,Sarah Paulson,89,92,87
-1999,Sabrina Carpenter,93,88,94
+- 1981,Sarah Paulson,89,92,87
+- 1999,Sabrina Carpenter,93,88,94
 
 ## 🛠 Technologies Used
 
